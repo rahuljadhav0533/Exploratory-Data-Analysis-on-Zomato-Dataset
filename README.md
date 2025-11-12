@@ -4,6 +4,9 @@ Zomato Restaurants Data Analysis (EDA)
 This project explores and analyzes the Zomato dataset to uncover insights about restaurants, ratings, locations, costs, and customer preferences.
 Through Exploratory Data Analysis (EDA), Aim to understand the patterns and trends in restaurant data that can help businesses and food enthusiasts make better decisions.
 
+### 📂 Dataset
+The dataset used for this analysis is available on [Kaggle] (https://www.kaggle.com/datasets/pranavuikey/zomato-eda)
+
 🧩 Objectives:
 
 1.Clean and preprocess raw data for analysis.
